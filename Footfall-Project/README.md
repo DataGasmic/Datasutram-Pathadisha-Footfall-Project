@@ -24,3 +24,4 @@ Update -
 
 4. A proper shape file that gives roads of kolkata, isnt available for proper  plotting of data.
 
+5. There are also errors in lat-lon coords of the vehicel data, with extreme outliers, (fixed in the code), but for one single vehicle.
